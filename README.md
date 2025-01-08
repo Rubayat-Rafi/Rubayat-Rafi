@@ -15,7 +15,7 @@ I am a passionate **Frontend Developer** aspiring to create dynamic and user-fri
 
 ### Skills
 
-![HTML](https://img.icons8.com/color/20/000000/html-5.png) ![CSS](https://img.icons8.com/color/20/000000/css3.png) ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) ![React](https://img.icons8.com/color/20/000000/react-native.png) ![Firebase](https://img.icons8.com/color/20/000000/firebase.png) ![Node.js](https://img.icons8.com/color/20/000000/nodejs.png) ![MongoDB](https://img.icons8.com/color/20/000000/mongodb.png) ![Git](https://img.icons8.com/color/20/000000/git.png) ![VS Code](https://img.icons8.com/color/20/000000/visual-studio-code-2019.png) ![Chrome DevTools](https://img.icons8.com/color/20/000000/chrome.png)
+ ![HTML](https://img.icons8.com/color/20/000000/html-5.png) ![CSS](https://img.icons8.com/color/20/000000/css3.png) ![Tailwind CSS](https://img.icons8.com/color/20/000000/tailwindcss.png) ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) ![React](https://img.icons8.com/color/20/000000/react-native.png) ![Firebase](https://img.icons8.com/color/20/000000/firebase.png) ![Node.js](https://img.icons8.com/color/20/000000/nodejs.png) ![Express.js](https://img.icons8.com/color/20/000000/express-js.png) ![MongoDB](https://img.icons8.com/color/20/000000/mongodb.png) ![Git](https://img.icons8.com/color/20/000000/git.png) ![VS Code](https://img.icons8.com/color/20/000000/visual-studio-code-2019.png) ![Chrome DevTools](https://img.icons8.com/color/20/000000/chrome.png)
 
 ### Projects
 
