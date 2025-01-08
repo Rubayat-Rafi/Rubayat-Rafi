@@ -31,8 +31,8 @@ I am a passionate **Frontend Developer** aspiring to create dynamic and user-fri
 - ✅ Improve backend skills with **Node.js** and **Express.js**.
 
 ### Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubayat-Rafi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubayat-Rafi&layout=compact&theme=radical)
 
 ### Connect with Me
 
