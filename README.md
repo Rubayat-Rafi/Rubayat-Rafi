@@ -21,9 +21,9 @@ I am a passionate **Frontend Developer** aspiring to create dynamic and user-fri
 
 | Project Name      | Description                                     | Link                                     |
 |-------------------|-------------------------------------------------|------------------------------------------|
-| PH Tube           | A YouTube-like video-sharing platform            | [Live Site](#) [Repo](#)                 |
-| Gadget Heaven     | E-commerce website for tech gadgets              | [Live Site](#) [Repo](#)                 |
-| Job Search Site   | A website to search for jobs using React.js      | [Live Site](#) [Repo](#)                 |
+| Video Editor      | This is a Portfolio website of a Video editor    | [Live Site](https://alphavideoedit.com/) [Repo](https://github.com/Rubayat-Rafi/Alpha_Video_Editing)|
+| Restaurant Website | A fully responsive Restaurant website with sign-in and order-now functionality.              | [Live Site](https://taste-odyssey.web.app/) [Repo](#)                 |
+| Sports Store   | A dynamic E-Commerce where you can buy or add your products.      | [Live Site](https://equisports.surge.sh/) [Repo](#)                 |
 
 ### Goals for 2025
 
