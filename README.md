@@ -1,6 +1,6 @@
 # Hi there, I'm Abu Rubayat Rafi! 
 
-![Profile Banner](https://via.placeholder.com/1000x200) <!-- Add a custom banner image link here -->
+![Profile Banner](https://raw.githubusercontent.com/Rubayat-Rafi/Rubayat-Rafi/refs/heads/main/github%20banner.png) 
 
 ### About Me
 
