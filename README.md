@@ -1,21 +1,47 @@
 ![Profile Banner](https://raw.githubusercontent.com/Rubayat-Rafi/Rubayat-Rafi/refs/heads/main/github%20banner.png) 
 
+---
+
 ### About Me
 
-I am a passionate **Frontend Developer** aspiring to create dynamic and user-friendly web applications. I'm currently working diligently on my path to becoming a full-time developer.
+I’m a passionate **Frontend Developer** with a love for building dynamic, responsive, and user-friendly web applications. I’m on a journey to become a full-time developer, constantly learning and improving my skills.
 
-- 🌱 I’m currently learning advanced **React.js** and **Node.js**.
-- 🔭 I’m working on a **job search website** using **React.js** and **Tailwind CSS**.
-- 👯 I’m looking to collaborate on exciting **frontend projects**.
-- 🌐 I have completed over 30 projects, including:
-  - A restaurant website
-  - A travel website
-  - An e-commerce website
-  - My personal portfolio website
+- 🌱 **Currently Learning**: **Next.js** for server-side rendering and advanced React.js concepts.  
+- 🔭 **Working On**: A **fully dynamic e-commerce project** with features like:  
+  - **User Panel**: Login/logout, product browsing, and wishlist management.  
+  - **Seller Panel**: Add, edit, and manage products.  
+  - **Admin Panel**: Manage users, sellers, and products.  
+  - **Payment Integration**: Secure and seamless payment processing.  
+- 👯 **Looking to Collaborate**: On exciting **frontend projects** or open-source contributions.  
+- 🚀 **Completed 30+ Projects**: Including e-commerce platforms, restaurant websites, travel websites, and my personal portfolio.  
+
+---
+
 
 ### Skills
 
- ![HTML](https://img.icons8.com/color/20/000000/html-5.png) ![CSS](https://img.icons8.com/color/20/000000/css3.png) ![Tailwind CSS](https://img.icons8.com/color/20/000000/tailwindcss.png) ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) ![React](https://img.icons8.com/color/20/000000/react-native.png) ![Firebase](https://img.icons8.com/color/20/000000/firebase.png) ![Node.js](https://img.icons8.com/color/20/000000/nodejs.png) ![Express.js](https://img.icons8.com/color/20/000000/express-js.png) ![MongoDB](https://img.icons8.com/color/20/000000/mongodb.png) ![Git](https://img.icons8.com/color/20/000000/git.png) ![VS Code](https://img.icons8.com/color/20/000000/visual-studio-code-2019.png) ![Chrome DevTools](https://img.icons8.com/color/20/000000/chrome.png)
+#### **Frontend Technologies**  
+![HTML](https://img.icons8.com/color/20/000000/html-5.png) **HTML5**  
+![CSS](https://img.icons8.com/color/20/000000/css3.png) **CSS3**  
+![Tailwind CSS](https://img.icons8.com/color/20/000000/tailwindcss.png) **Tailwind CSS**  
+![daisyUI](https://img.icons8.com/color/20/000000/ui-design.png) **daisyUI**  
+![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) **JavaScript (ES6+)**  
+![React](https://img.icons8.com/color/20/000000/react-native.png) **React.js**  
+![Next.js](https://img.icons8.com/color/20/000000/nextjs.png) **Next.js**  
+![Firebase](https://img.icons8.com/color/20/000000/firebase.png) **Firebase (Authentication)**  
+
+#### **Backend Technologies**  
+![Node.js](https://img.icons8.com/color/20/000000/nodejs.png) **Node.js**  
+![Express.js](https://img.icons8.com/color/20/000000/express-js.png) **Express.js**  
+![MongoDB](https://img.icons8.com/color/20/000000/mongodb.png) **MongoDB**  
+
+#### **Tools & Libraries**  
+![Git](https://img.icons8.com/color/20/000000/git.png) **Git**  
+![VS Code](https://img.icons8.com/color/20/000000/visual-studio-code-2019.png) **VS Code**  
+![Chrome DevTools](https://img.icons8.com/color/20/000000/chrome.png) **Chrome DevTools**  
+![Problem-Solving](https://img.icons8.com/color/20/000000/idea.png) **Problem-Solving**  
+
+---
 
 ### Projects
 
@@ -25,10 +51,18 @@ I am a passionate **Frontend Developer** aspiring to create dynamic and user-fri
 | Restaurant Website | A fully responsive Restaurant website with sign-in and order-now functionality.              | [Live Site](https://taste-odyssey.web.app/) [Repo](#)                 |
 | Sports Store   | A dynamic E-Commerce where you can buy or add your products.      | [Live Site](https://equisports.surge.sh/) [Repo](#)                 |
 
+
+---
+
 ### Goals for 2025
 
-- ✅ Build more **production-ready** web applications.
-- ✅ Improve backend skills with **Node.js** and **Express.js**.
+- ✅ Become a **Full Stack Developer** by mastering both frontend and backend technologies.  
+- ✅ Build **production-ready, scalable web applications** with modern frameworks like **Next.js** and **Node.js**.  
+- ✅ Implement advanced features like **payment integration**, **role-based access control**, and **real-time functionality**.  
+- ✅ Contribute to **open-source projects** and collaborate with developers worldwide.  
+- ✅ Deliver **end-to-end solutions** that combine seamless user experiences with robust backend systems.  
+
+---
 
 ### Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubayat-Rafi&show_icons=true&theme=radical)
