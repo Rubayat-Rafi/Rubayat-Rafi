@@ -21,14 +21,7 @@ I’m a passionate **Frontend Developer** with a love for building dynamic, resp
 ### Skills
 
 #### **Frontend Technologies**  
-![HTML](https://img.icons8.com/color/20/000000/html-5.png) **HTML5**  
-![CSS](https://img.icons8.com/color/20/000000/css3.png) **CSS3**  
-![Tailwind CSS](https://img.icons8.com/color/20/000000/tailwindcss.png) **Tailwind CSS**  
-![daisyUI](https://img.icons8.com/color/20/000000/ui-design.png) **daisyUI**  
-![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) **JavaScript (ES6+)**  
-![React](https://img.icons8.com/color/20/000000/react-native.png) **React.js**  
-![Next.js](https://img.icons8.com/color/20/000000/nextjs.png) **Next.js**  
-![Firebase](https://img.icons8.com/color/20/000000/firebase.png) **Firebase (Authentication)**  
+![HTML](https://img.icons8.com/color/20/000000/html-5.png) **HTML5**  ![CSS](https://img.icons8.com/color/20/000000/css3.png) **CSS3**  ![Tailwind CSS](https://img.icons8.com/color/20/000000/tailwindcss.png) **Tailwind CSS**  ![daisyUI](https://img.icons8.com/color/20/000000/ui-design.png) **daisyUI**  ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) **JavaScript (ES6+)**  ![React](https://img.icons8.com/color/20/000000/react-native.png) **React.js**  ![Next.js](https://img.icons8.com/color/20/000000/nextjs.png) **Next.js**  ![Firebase](https://img.icons8.com/color/20/000000/firebase.png) **Firebase (Authentication)**  
 
 #### **Backend Technologies**  
 ![Node.js](https://img.icons8.com/color/20/000000/nodejs.png) **Node.js**  
