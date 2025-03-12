@@ -29,16 +29,6 @@ I’m a passionate **Frontend Developer** with a love for building dynamic, resp
 #### **Tools & Libraries**  
 ![Git](https://img.icons8.com/color/20/000000/git.png) **Git** | ![VS Code](https://img.icons8.com/color/20/000000/visual-studio-code-2019.png) **VS Code** | ![Chrome DevTools](https://img.icons8.com/color/20/000000/chrome.png) **Chrome DevTools** | ![Problem-Solving](https://img.icons8.com/color/20/000000/idea.png) **Problem-Solving**  
 
----
-
-### Projects
-
-| Project Name      | Description                                     | Link                                     |
-|-------------------|-------------------------------------------------|------------------------------------------|
-| Video Editor      | This is a Portfolio website of a Video editor    | [Live Site](https://alphavideoedit.com/) [Repo](https://github.com/Rubayat-Rafi/Alpha_Video_Editing)|
-| Restaurant Website | A fully responsive Restaurant website with sign-in and order-now functionality.              | [Live Site](https://taste-odyssey.web.app/) [Repo](#)                 |
-| Sports Store   | A dynamic E-Commerce where you can buy or add your products.      | [Live Site](https://equisports.surge.sh/) [Repo](#)                 |
-
 
 ---
 
